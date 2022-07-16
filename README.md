@@ -2,7 +2,7 @@
 - 👀 I’m new to coding and interested in software development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on building software for everyday solution
-- 📫 How to reach me: send an email to okolieobum@gmail.com
+- 📫 How to reach me: Tweet @obumokolie or send an email okolieobum@gmail.com
 
 <!---
 ObumOkolie/ObumOkolie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
